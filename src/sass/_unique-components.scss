@@ -25,3 +25,20 @@
         margin: 0 auto;
     }
 }
+
+.uc-head {
+    text-align: center;
+}
+
+.h2-orange {
+    color: var(--orangepeel);
+}
+
+.uc-cards {
+    display: flex;
+}
+
+.orange-border {
+    border-radius: 15px;
+    background: var(--orangepeel);
+}
